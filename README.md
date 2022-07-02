@@ -1,1 +1,2 @@
 # odin-recipes
+This repo contains my first multi-paged self-written website. It contains an index file of the topic (food) followed by three subsequent pages (recipes). Various headers and lists are utilized as well 'bold','italic', and 'image' elements. 
